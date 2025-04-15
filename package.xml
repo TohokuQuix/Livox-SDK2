@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>livox_sdk2_ros</name>
+  <version>2.0.0</version>
+  <description>Livox-SDK2 integrated as a ROS2 package without additional ROS2 dependencies</description>
+  <maintainer email="nara.takaaki@rm.is.tohoku.ac.jp">Your Name</maintainer>
+  <license>Apache License 2.0</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+</package>
